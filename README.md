@@ -11,7 +11,7 @@ Note of Some Tips &amp; Tricks
 * https://phamdinhkhanh.github.io/2019/08/10/PytorchTurtorial1.html
 * https://github.com/rasbt/deeplearning-models
 * [NLP research](http://primo.ai/index.php?title=Natural_Language_Processing_(NLP))
-* [Machineleaning from scratch)(https://github.com/eriklindernoren/ML-From-Scratch?fbclid=IwAR3uCA_6g5p5N2P-qHL3E1PM1Y50PwYGBWJBNQ9ZP6s-n29f9w7yd5bchXE#classification-with-cnn)
+* [Machineleaning from scratch](https://github.com/eriklindernoren/ML-From-Scratch?fbclid=IwAR3uCA_6g5p5N2P-qHL3E1PM1Y50PwYGBWJBNQ9ZP6s-n29f9w7yd5bchXE#classification-with-cnn)
 * [Matrix calculus for deep learning](https://explained.ai/matrix-calculus/index.html?fbclid=IwAR0Kj-yOOjlPELFwzqEw9j5bulWS6me0oAoUqEyL4RGh-1eUDJzpF9a5XPY)
 * [CiFar100](https://github.com/weiaicunzai/pytorch-cifar100)
 * [Machine Learning Collection](https://github.com/aladdinpersson/Machine-Learning-Collection)
