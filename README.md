@@ -19,6 +19,7 @@ Note of Some Tips &amp; Tricks
 
 ## Models - Architectures:
 * https://github.com/osmr/imgclsmob/tree/master/pytorch
+* https://github.com/rwightman/pytorch-image-models
 
 ## Python-Pytorch tips, skills and exercises:
 * https://github.com/zhiwehu/Python-programming-exercises
