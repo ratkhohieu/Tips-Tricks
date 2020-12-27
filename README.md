@@ -1,8 +1,10 @@
 # Tips-Tricks
 Note of Some Tips &amp; Tricks 
 
-## Tips for training in project:
+## Overview - Survey - Training Tips:
+* [AI Expert roadmap](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 * [Tips for training](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR25eT2PRBd4cSlwY5VICkafz1mEy2lb3V3FAV5Voq4Sjiof8hwbzfNzGRk)
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## Tutorials and Technologies:
 * https://github.com/ritchieng/the-incredible-pytorch
