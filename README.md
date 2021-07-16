@@ -7,6 +7,7 @@ Note of Some Tips &amp; Tricks
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ## Tutorials and Technologies:
+* https://madewithml.com/
 * https://github.com/ritchieng/the-incredible-pytorch
 * https://github.com/yunjey/pytorch-tutorial
 * https://github.com/MorvanZhou/PyTorch-Tutorial
