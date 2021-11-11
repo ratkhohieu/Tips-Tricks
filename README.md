@@ -5,6 +5,7 @@ Note of Some Tips &amp; Tricks
 * [AI Expert roadmap](https://i.am.ai/roadmap/#big-data-engineer-roadmap)
 * [Tips for training](http://karpathy.github.io/2019/04/25/recipe/?fbclid=IwAR25eT2PRBd4cSlwY5VICkafz1mEy2lb3V3FAV5Voq4Sjiof8hwbzfNzGRk)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Paper Survey](https://github.com/patrick-llgc/Learning-Deep-Learning)
 
 ## Tutorials and Technologies:
 * https://madewithml.com/
