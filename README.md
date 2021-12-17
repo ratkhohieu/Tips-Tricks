@@ -26,6 +26,7 @@ Note of Some Tips &amp; Tricks
 * https://github.com/rwightman/pytorch-image-models
 
 ## Python-Pytorch tips, skills and exercises:
+* https://github.com/chiphuyen/python-is-cool
 * https://github.com/zhiwehu/Python-programming-exercises
 * https://realpython.com/python-f-strings/
 * https://github.com/vahidk/EffectivePyTorch
